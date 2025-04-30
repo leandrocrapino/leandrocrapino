@@ -5,7 +5,7 @@
 Me chamo Leandro da Silva Crapino, estou estagiando na área de TI com foco em suporte técnico na Intertox, uma empresa de consultoria toxicológica. E também estou cursando o 6.º semestre de Ciência da Computação na Universidade Municipal de São Caetano do Sul.
 
 <p align="left">
-    <a href="[mailto:leandrocrapino@gmail.com?subject=&body=,](https://criarmeulink.com.br/u/1746051269)">
+    <a href="https://criarmeulink.com.br/u/1746051269">
         <img
         alt="Email"
         title="email"
