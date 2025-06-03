@@ -5,20 +5,8 @@
 Me chamo Leandro da Silva Crapino, estou estagiando na área de TI com foco em suporte técnico na Intertox, uma empresa de consultoria toxicológica. E também estou cursando o 6.º semestre de Ciência da Computação na Universidade Municipal de São Caetano do Sul.
 
 <p align="left">
-    <a href="mailto:leandrocrapino@gmail.com.">
-        <img
-        alt="Email"
-        title="email"
-        src="https://custom-icon-badges.demolab.com/badge/EMail-E61B23.svg?logo=mail"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/leandrocrapino/">
-        <img
-        alt="LinkedIn"
-        title="linkedin"
-        src="https://img.shields.io/badge/LinkedIn-0e76a8"
-        />
-    </a>
+    <a href = "mailto:leandrocrapino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leandrocrapino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
 ---
