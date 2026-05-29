@@ -2,7 +2,7 @@
 
 **`Estagiário de TI`**
 
-Me chamo Leandro da Silva Crapino, estou atuando como Assistente de Suporte de TIC Jr. na InterTox, uma empresa de consultoria toxicológica. E também estou cursando o 6.º semestre de Ciência da Computação na Universidade Municipal de São Caetano do Sul.
+Me chamo Leandro da Silva Crapino, estou atuando como Assistente de Suporte de TIC Jr. na InterTox, uma empresa de consultoria toxicológica. Sou formado em Ciência da Computação pela Universidade Municipal de São Caetano do Sul.
 
 <p align="left">
     <a href = "mailto:leandrocrapino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
