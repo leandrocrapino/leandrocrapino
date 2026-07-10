@@ -35,7 +35,7 @@ Me chamo Leandro da Silva Crapino, estou atuando como Assistente de Suporte de T
     title="excel"
     width="30px"
     style="padding-right: 10px;"
-    src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png?20190925171014" 
+    src ="[https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png?20190925171014](https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000)" 
 />
 <img 
     align="left"
