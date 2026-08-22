@@ -5,7 +5,7 @@
 Me chamo Leandro da Silva Crapino, estou atuando como Assistente de Suporte de TIC Jr. na InterTox, uma empresa de consultoria toxicológica. Sou formado em Ciência da Computação pela Universidade Municipal de São Caetano do Sul.
 
 <p align="left">
-    <a href = "mailto:leandrocrapino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+    <a href = "leandrocrapino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leandrocrapino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
